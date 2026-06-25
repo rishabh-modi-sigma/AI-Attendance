@@ -19,3 +19,7 @@ def main():
        """, unsafe_allow_html=True)
 
 main()
+# Agar venv folder nahi dikh raha:
+# Naya virtual environment banao:
+
+# venv\Scripts\activate

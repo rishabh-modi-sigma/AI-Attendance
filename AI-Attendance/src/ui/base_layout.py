@@ -42,13 +42,16 @@ def style_base_layout():
         /* Page Padding */
         .block-container {
             padding-top: 1.5rem !important;
+            padding-top: 0rem !important;
+            max-width: 700px !important;
+            margin: auto !important;
         }
 
         /* Heading Style */
         h1, h2 {
             font-family: 'Climate Crisis', sans-serif !important;
-            font-size: 3.5rem !important;
-            line-height: 1.1 !important;
+            font-size: 2rem !important;
+            line-height: 0.9 !important;
             margin-bottom: 0rem !important;
         }
 
